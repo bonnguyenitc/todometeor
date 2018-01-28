@@ -2,7 +2,7 @@
   "name": "simple-todos",
   "private": true,
   "scripts": {
-    "start": "npm start"
+    "start": "meteor run"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
